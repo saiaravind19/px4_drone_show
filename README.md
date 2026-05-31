@@ -2,10 +2,6 @@
 
 This project provides basic examples for controlling PX4 in both position control and velocity control modes. Additionally, it demonstrates a drone show using a swarm of drones that form a formation based on an image input provided by the user.
 
-## Getting Started
-
-For a detailed explanation on how to get started with the basics of PX4, please refer to the [Tech Nerd documentation](https://technerd.readthedocs.io/en/latest/).
-
 
 ## Features
 
